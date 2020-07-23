@@ -5,12 +5,19 @@ A small representation of combining and  implementing all the VueJs Concepts and
 1] VUEX(A state Management Tool)
 
 2] Routing 
+
 3] Animations & Transitions
+
 4] Core Javascript
+
 5] Designing with BOOTSTRAP v4.5
+
 6] Component Architecture
+
 7] Parent-Child & Child-Parent Communication Approach
+
 8] Firebase REST API 
+
 
 # VERSIONS 
 VUE CLI 2
