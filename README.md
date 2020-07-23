@@ -3,6 +3,7 @@ A small representation of combining and  implementing all the VueJs Concepts and
 
 # CONCEPTS THAT COVERED
 1] VUEX(A state Management Tool)
+
 2] Routing 
 3] Animations & Transitions
 4] Core Javascript
